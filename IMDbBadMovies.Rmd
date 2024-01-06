@@ -1,7 +1,7 @@
 ---
 title: "IMDb Lowest Ranked Movies EDA"
 author: "Jorge de la Cruz"
-date: "January 2023"
+date: "August 2023"
 output:
   html_document:
     df_print: paged
